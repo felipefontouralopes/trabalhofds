@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(240, 236, 217);
+    }
+
+h1{
+   color: rgb(77, 3, 3);
+   text-align: center;
+    }
+
+.p{
+    font-size: 10pt;
+    text-align: justify;
+    }
+
+.pMaior{
+    font-size: 15pt;
+    }   
+
+li{
+    margin-bottom: 15px;
+    }
+
+.imgArredondada{
+    border-radius: 20px;
+    }
+
+table, th, td{
+    border: 2px solid;
+    text-align: center;
+}
+
+th{
+    background-color: rgb(67, 165, 155);
+}
+
+td{
+  padding: 8px;
+  background-color: rgb(207, 236, 233);  
+}
+
+.linkGE:hover{
+    color: rgb(6, 46, 4);
+    }
+
+#motivacao{
+    color: white;
+    border-radius: 10px;
+}
